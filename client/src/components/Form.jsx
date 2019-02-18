@@ -40,7 +40,7 @@ class Form extends Component {
   render() {
     return (
       <form className="form noValidate" autoComplete="off" onSubmit={this.submit}>
-        <h2>Tell us about you</h2>
+        <h2>Please, Tell us about you</h2>
         <TextField
           id="standard-dense"
           value={this.state.name}
