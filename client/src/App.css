@@ -1,0 +1,20 @@
+
+.form, .users {
+  margin: 0px auto;
+  width: 50%;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+}
+
+.form > div {
+  margin-top: 10px;
+}
+.form button {
+  margin-top: 20px;
+  width: 100px;
+}
