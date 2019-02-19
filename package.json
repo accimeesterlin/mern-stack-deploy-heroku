@@ -18,5 +18,8 @@
     "lodash": "^4.17.11",
     "mongoose": "^5.4.13",
     "prop-types": "^15.7.2"
+  },
+  "engines": {
+    "node": "11.3.0"
   }
 }
